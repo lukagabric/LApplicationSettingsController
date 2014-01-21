@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>orientation</key>
+	<dict>
+		<key>landscape_left</key>
+		<true/>
+		<key>landscape_right</key>
+		<true/>
+		<key>portrait</key>
+		<false/>
+		<key>portrait_upside_down</key>
+		<false/>
+	</dict>
+	<key>mDNS</key>
+	<dict>
+		<key>some_url</key>
+		<string>http://www.google.com</string>
+	</dict>
+	<key>UI</key>
+	<dict>
+		<key>login_enabled</key>
+		<false/>
+	</dict>
+	<key>params</key>
+	<dict>
+		<key>flurry_key</key>
+		<string>abcd</string>
+	</dict>
+	<key>addons</key>
+	<dict/>
+</dict>
+</plist>
